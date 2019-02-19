@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).}
+
+This project was created based on the react-quiz from mitch gavan (`https://mitchgavan.com/react-quiz/`).
+
+I made some improvement to show first some categories and after a category was selected, show randomly some questions from that category.
+
+there are a few things to improve, please do not hesitate to do any improvement in code.
+
+## get the packages
+
+in the project directory, you have to run `npm install` to get all the necesary packages.
 
 ## Available Scripts
 
